@@ -30,9 +30,9 @@ class JenkinsDemoProjectApplicationTests {
     @Test
     void second() {
         log.info("Application another second test executed...");
-        int x = 4;
+        int x = 2;
         int y = 4;
-        Assertions.assertEquals(16, x*y);
+        Assertions.assertEquals(8, x*y);
     }
 
 }
