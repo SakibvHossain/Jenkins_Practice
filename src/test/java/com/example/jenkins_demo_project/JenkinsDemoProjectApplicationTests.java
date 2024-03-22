@@ -32,7 +32,7 @@ class JenkinsDemoProjectApplicationTests {
         log.info("Application another second test executed...");
         int x = 4;
         int y = 4;
-        Assertions.assertEquals(32-16, x*y);
+        Assertions.assertEquals(32+16, x*y);
     }
 
 }
