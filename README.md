@@ -19,4 +19,9 @@ For enabling this follow the steps:
 When your done then if your build failed. You'll get message like this:  
 ![error](https://github.com/SakibvHossain/Jenkins_Practice/assets/92059000/cf38c76d-2e98-45c4-ad85-6ef8574c2a69)
 
+### CI / CD Pipeline  
+Created 3 Jobs  
+![pipeline](https://github.com/SakibvHossain/Jenkins_Practice/assets/92059000/230cd88f-b2dc-42d2-a55d-6f7da9410ffa)
 
+### CI / CD Pipeline working perfectly  
+![pipeline works perfectly](https://github.com/SakibvHossain/Jenkins_Practice/assets/92059000/ef2eaf5e-590a-4dbf-ac94-73c454bea9b9)
