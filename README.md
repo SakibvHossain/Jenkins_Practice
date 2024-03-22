@@ -16,3 +16,7 @@ For enabling this follow the steps:
 8.  Test it check if its working fine -> **Test configuration by sending test e-mail**      
 ![email](https://github.com/SakibvHossain/Jenkins_Practice/assets/92059000/d494fd17-03ed-4ca7-942b-62e8b715af49)
 
+When your done then if your build failed. You'll get message like this:
+![error](https://github.com/SakibvHossain/Jenkins_Practice/assets/92059000/cf38c76d-2e98-45c4-ad85-6ef8574c2a69)
+
+
