@@ -24,7 +24,7 @@ class JenkinsDemoProjectApplicationTests {
         log.info("Application another test executed...");
         int x = 2;
         int y = 4;
-        Assertions.assertEquals(6, x*y);
+        Assertions.assertEquals(8, x*y);
     }
 
 }
