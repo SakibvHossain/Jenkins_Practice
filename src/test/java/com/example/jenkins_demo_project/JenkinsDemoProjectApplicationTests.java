@@ -19,4 +19,12 @@ class JenkinsDemoProjectApplicationTests {
         Assertions.assertEquals(6, x*y);
     }
 
+    @Test
+    void another() {
+        log.info("Application another test executed...");
+        int x = 2;
+        int y = 3;
+        Assertions.assertEquals(6, x*y);
+    }
+
 }
