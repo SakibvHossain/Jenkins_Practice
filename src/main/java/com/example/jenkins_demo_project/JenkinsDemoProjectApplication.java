@@ -17,6 +17,7 @@ public class JenkinsDemoProjectApplication {
 
     public static void main(String[] args) {
         logger.info("Application executed...");
+        logger.info("Application executed perfectly...");
         SpringApplication.run(JenkinsDemoProjectApplication.class, args);
     }
 
