@@ -27,6 +27,6 @@ Created 3 Jobs
 ![pipeline works perfectly](https://github.com/SakibvHossain/Jenkins_Practice/assets/92059000/ef2eaf5e-590a-4dbf-ac94-73c454bea9b9)
 
 ### CI / CD Pipeline with error
-If any job occurs error then the pipeline will stop there won't move forward:
+If any job occurs error then the pipeline will stop there won't move forward:  
 ![error](https://github.com/SakibvHossain/Jenkins_Practice/assets/92059000/034f9669-05f9-4fdb-907c-a69ce8275c3b)
 
